@@ -1,6 +1,6 @@
 # splash_journey
 
-A Splash art for flutter with tween animation
+A Splash art for flutter with animation
 
 ## Getting Started
 
